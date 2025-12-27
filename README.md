@@ -104,6 +104,7 @@ class Aisha():
 - 🤖  Cornell Tech — Machine Learning / Artificial Intelligence - *In Progress*
 
 <hr>
+
 ### 📬 Get in Touch
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/aishaq13/">linkedin.com/in/aishaq13</a>  
