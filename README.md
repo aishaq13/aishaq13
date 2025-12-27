@@ -30,7 +30,7 @@ class Aisha():
         self.name = "Aisha"
         self.location = "Texas, USA"
         self.married = True
-        self.has_a_man = True
+        self.has_the_nicest_man = True
         self.cute = True
         self.education = [
             "MS Computer Science",
