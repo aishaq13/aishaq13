@@ -31,6 +31,7 @@ class Aisha():
         self.location = "Texas, USA"
         self.married = True
         self.has_a_man = True
+        self.cute = True
         self.education = [
             "MS Computer Science",
             "BS Computer Science – UT Dallas",
