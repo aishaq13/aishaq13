@@ -15,9 +15,7 @@ I’m especially interested in how intelligent systems behave at scale — when 
 🎓 I completed my **Bachlor's of Science in Computer Science from UT Dallas** and now currently pursuing a Master’s in Computer Science.
 My background spans backend engineering, cloud-native systems, and applied ML — from production microservices and CI/CD pipelines to large-scale data processing and AI-driven platforms.
 
-Outside of engineering, I enjoy exploring new tech, learning how large systems fail (and recover), traveling ✈️, painting 🎨, and following Formula 1 🏎️.
-
-P.S. Max Verstappen > Lando Norris
+Outside of engineering, I enjoy exploring new tech, learning how large systems fail (and recover), traveling ✈️, painting 🎨, and cooking!👩‍🍳
 
 <hr>
 
@@ -29,9 +27,6 @@ class Aisha():
     def __init__(self):
         self.name = "Aisha"
         self.location = "Texas, USA"
-        self.married = True
-        self.has_the_nicest_man = True
-        self.cute = True
         self.education = [
             "MS Computer Science",
             "BS Computer Science – UT Dallas",
