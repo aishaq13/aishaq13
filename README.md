@@ -12,7 +12,7 @@
 I build systems at the intersection of **software engineering, machine learning, and distributed systems**.  
 I’m especially interested in how intelligent systems behave at scale — when models, data pipelines, and infrastructure all need to work together reliably.
 
-🎓 I completed my **Bachlor's of Science in Computer Science from UT Dallas** and now currently pursuing a Master’s in Computer Science.
+🎓 I completed my **Bachlor's of Science in Computer Science from UT Dallas** and now currently pursuing Master’s in Computer Science from Georgia Institute of Technology 
 My background spans backend engineering, cloud-native systems, and applied ML — from production microservices and CI/CD pipelines to large-scale data processing and AI-driven platforms.
 
 Outside of engineering, I enjoy exploring new tech, learning how large systems fail (and recover), traveling ✈️, painting 🎨, and cooking!👩‍🍳
@@ -96,8 +96,9 @@ class Aisha():
 
 ### 📜 Certifications
 
-- 🏗️ AWS Solution Architect — *In Progress*  
-- 🤖  Cornell Tech — Machine Learning / Artificial Intelligence - *In Progress*
+- 🏗️ AWS Solution Architect — *In Progress*
+- 📜 Azure Certified Developer
+- 🤖 Cornell Tech — Machine Learning / Artificial Intelligence - *In Progress*
 
 <hr>
 
